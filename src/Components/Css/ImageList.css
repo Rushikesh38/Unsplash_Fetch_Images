@@ -4,12 +4,10 @@
     grid-gap: 10px;
 }
 .image-list{
-   
-   background-color: rgb(9, 35, 58);
 }
 
 .image-list img{
    width: 250px;
    height: 250px;
-   border-radius: 8px;
+   border-radius: 4px;
 }
